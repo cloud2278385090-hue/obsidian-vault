@@ -1,0 +1,7 @@
+.obsidian/
+!/.obsidian/plugins/  # Keep plugin folders but not cache
+.trash/
+*.tmp
+*~
+.DS_Store
+Thumbs.db
